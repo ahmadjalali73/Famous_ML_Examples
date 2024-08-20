@@ -28,4 +28,15 @@ for installing these packages, you can use pip. Dataset is uploaded. So there is
 ## Result
 
 We will use 'R2 Score' for our metric of validation. Our best score is above 82%. Our score on test dataset is also 82%. You can see a chart about our loss and r2 score. 
+
 ![alt text](image.png)
+
+# Predict 2 colums
+
+In `predict_2_columns.ipynb` file we tried to predict two columns, instead of on column. We wil predict 
+- temp
+- wnd_spd
+
+Which represent Temperture and wind speed. Our model is not very complecated. But our results are very promising. In the following image you will see r2 score and loss on our data
+
+![alt text](image-1.png)
