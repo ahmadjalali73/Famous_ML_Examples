@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+
+# Uploaded files (uncomment if you don't want to track uploaded files)
+# uploads/
+
+# Development
+.DS_Store
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
